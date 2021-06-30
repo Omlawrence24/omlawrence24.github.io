@@ -3,7 +3,7 @@
     background-color: black;
     color: white;
     text-align: center;
-    cursor: pointer;
+    cursor: auto;
    
 }
 
@@ -44,12 +44,12 @@
 /* inventory */
 .inventory{
     margin-bottom: 50px;
+    text-align: center;
 }
 .head{
     margin-bottom: 50px;
     
 }
-
 
 /* contacts */
 #status{
