@@ -6,15 +6,19 @@
     cursor: auto;
    
 }
+.fonts{
+    font-family: 'Courier Prime', monospace;
+}
 
 .heading{
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 79px;
-    margin: auto;
+    font-family: 'Cinzel Decorative', cursive;
+        font-size: 54px;
+        margin-top: -1px;
+   
 }
 .main-intro{
-    font-family: 'Times New Roman', Times, serif;
-     margin-top: 20px;
+    font-family: 'Courier Prime', monospace;
+     
 }
 
 
